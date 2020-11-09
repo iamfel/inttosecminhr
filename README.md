@@ -1,5 +1,7 @@
 # inttosecminhr
-Converts an integer to its corresponding value in seconds, minutes and hours
+
+
+Converts a given  time in seconds (integer) to its corresponding value in seconds, minutes and hours
 
 Converts seconds to corresponding seconds, minutes and hours.
 
